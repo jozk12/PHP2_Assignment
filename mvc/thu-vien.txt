@@ -1,0 +1,5 @@
+1. tuong tac db: illuminate/database
+2. xu ly tang view: jenssegers/blade
+3. routing: phroute/phroute - nikic/fast-route
+
+composer install
